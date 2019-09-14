@@ -1,5 +1,5 @@
-# STM32SystemWorkbench
-### Install System Workbench on Mac OS X
+# Install STM32 System Workbench on macOS Mojave
+### Install System Workbench on macOS Mojave
 
 1. Go to [https://www.st.com/en/development-tools/sw4stm32.html](https://www.st.com/en/development-tools/sw4stm32.html)
 2. You'll need an account to access the download page. *(suggestion: use gmail to create an account)*
